@@ -1,0 +1,43 @@
+body{
+	background: #92bbb1;
+	font: normal 12pt Arial;
+	text-align: center;
+}
+header{
+	color: #fff;
+	font-style: italic;
+}
+section{
+	width: 500px;
+	height: 200px;
+	background: #fff;
+	margin: 0 auto;
+	padding: 10px;
+	text-align: left;
+	position: relative;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
+}
+#dados{
+	margin-bottom: 15px;
+}
+#res{
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 250px;
+	margin-top: 10px;
+	width: 250px;
+}
+#tabuada{
+	width: 90px;
+}
+footer{
+	font-style: italic;
+	color: #fff;
+	margin-top: 5px;
+}
+input{
+	display: block;
+	float: center;
+}
