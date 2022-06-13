@@ -10,11 +10,11 @@ header{
 	font-style: italic;
 }
 #dados{
-	padding-right: 10px;
+	margin-right: 10%;
 }
 section{
 	max-width: 80%;
-	min-width: 80%;
+	min-width: 60%;
 	background: #fff;
 	padding: 10px;
 	border-radius: 10px;
