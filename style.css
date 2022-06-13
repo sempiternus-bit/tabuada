@@ -9,8 +9,11 @@ header{
 	color: #fff;
 	font-style: italic;
 }
+#dados{
+	padding-right: 10px;
+}
 section{
-	max-width: 100%;
+	max-width: 80%;
 	min-width: 80%;
 	background: #fff;
 	padding: 10px;
