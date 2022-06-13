@@ -9,12 +9,12 @@ header{
 	color: #fff;
 	font-style: italic;
 }
-#dados{
-	margin-right: 6%;
+#res{
+	margin-left: 2%;
 }
 section{
 	max-width: 100%;
-	min-width: 70%;
+	min-width: 80%;
 	background: #fff;
 	padding: 10px;
 	border-radius: 10px;
