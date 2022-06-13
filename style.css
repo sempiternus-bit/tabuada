@@ -12,24 +12,13 @@ header{
 section{
 	max-width: 100%;
 	min-width: 80%;
-	height: 200px;
 	background: #fff;
 	padding: 10px;
-	text-align: left;
-	position: relative;
 	border-radius: 10px;
 	box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
-}
-#dados{
-	margin-bottom: 15px;
-}
-#res{
-	display: block;
-	position: absolute;
-	top: 0;
-	left: 250px;
-	margin-top: 10px;
-	width: 250px;
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
 }
 #tabuada{
 	width: 90px;
@@ -38,8 +27,4 @@ footer{
 	font-style: italic;
 	color: #fff;
 	margin-top: 5px;
-}
-input{
-	display: block;
-	float: center;
 }
