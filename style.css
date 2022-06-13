@@ -10,7 +10,8 @@ header{
 	font-style: italic;
 }
 section{
-	width: 500px;
+	max-width: 100%;
+	min-width: 80%;
 	height: 200px;
 	background: #fff;
 	padding: 10px;
